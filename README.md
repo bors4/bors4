@@ -11,7 +11,7 @@
 <p>🔭 I’m working as a Software Engineer.</p>
 
 <h3 style="color:rgb(255, 152, 152);">My CV</h3>
-<a href="https://drive.google.com/file/d/1zEUVVdTysHRDVlmSTOw8PDDFKbiPWopC/view?usp=share_link" target="_blank"><p title = "Link to my CV from Google Drive">Open CV</p></a>
+<a href="https://drive.google.com/file/d/15-QLp2EAJb_lqNF3K9buHetKyxniyahS/view?usp=sharing" target="_blank"><p title = "Link to my CV from Google Drive">Open CV</p></a>
 <hr>
 
 <h3 style="color:rgb(255, 152, 152);">Testing documentation</h3>
