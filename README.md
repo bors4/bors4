@@ -4,17 +4,24 @@
     <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="200"/>
   </div>
 </h1>
-<h2 style="color:rgb(255, 152, 152);">About Me</h2>
+<h2 style="color:rgb(255, 152, 152);">&#128102; About Me</h2>
+<a target="_blank" href="mailto:sasha.belik89@gmail.com">
+  <img align="left" alt="Gmail" width="80px" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/>
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/aliaksandr-bilyk-62a571234">
+  <img align="left" alt="LinkdeIN" width="80px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/>
+</a>
+</br>
 <hr>
-<p>Hello! This page with some information about me.</p>
+<p>Hello! Some information about me.</p>
 
-<p>🔭 I’m working as a Software Engineer.</p>
+<p>I’m working as a Software Engineer &#128104;&#8205;&#128187;</p>
 
-<h3 style="color:rgb(255, 152, 152);">My CV</h3>
-<a href="https://drive.google.com/file/d/15-QLp2EAJb_lqNF3K9buHetKyxniyahS/view?usp=sharing" target="_blank"><p title = "Link to my CV from Google Drive">Open CV</p></a>
+<h3 style="color:rgb(255, 152, 152);">&#128221; My CV</h3>
+<a href="https://drive.google.com/file/d/15-QLp2EAJb_lqNF3K9buHetKyxniyahS/view?usp=sharing" target="_blank"><p title = "Link to my CV from Google Drive">Open CV </p></a>
 <hr>
 
-<h3 style="color:rgb(255, 152, 152);">Testing documentation</h3>
+<h3 style="color:rgb(255, 152, 152);">&#128195; Testing documentation</h3>
 <div>
 <a href="https://github.com/bors4/postman" target="_self"><p title = "Postman Collections">Postman Collections</p></a>
 <a href="https://github.com/bors4/sql"  target="_self"><p title = "SQL queries">SQL queries</p></a>
@@ -29,7 +36,6 @@
   ### 🛠 &nbsp;Languages and Tools :
   
   <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
@@ -37,8 +43,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="40" height="40"/>&nbsp;
-  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
-  <img src="" title="" **alt="" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" title="VirtualBox" **alt="VirtualBox" width="40" height="40"/>&nbsp;
   </p>
 
   ---
