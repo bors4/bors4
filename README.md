@@ -17,8 +17,11 @@
 
 <p>I’m working as a Software Engineer &#128104;&#8205;&#128187;</p>
 
-<h3 style="color:rgb(255, 152, 152);">&#128221; My CV</h3>
-<a href="https://drive.google.com/file/d/15-QLp2EAJb_lqNF3K9buHetKyxniyahS/view?usp=sharing" target="_blank"><p title = "Link to my CV from Google Drive">Open CV </p></a>
+<h3 style="color:rgb(255, 152, 152);" title = "Link to my CV on russian and english from Google Drive">&#128221; My CV</h3>
+  <b>
+    <a href="https://drive.google.com/file/d/1qw_iiKAMAcMUSrITOYfaFc_zEYQULmAl/view?usp=sharing" target="_blank">Rissian</a>/
+    <a href="https://drive.google.com/file/d/1unonDsf193s4xbod3T7EW2EuzDx9DAnd/view?usp=sharing" target="_blank">English</a>
+  </b>
 <hr>
 
 <h3 style="color:rgb(255, 152, 152);">&#128195; Testing documentation</h3>
@@ -31,7 +34,6 @@
 </div>
 <hr>
 <div>
-  ---
   
   ### 🛠 &nbsp;Languages and Tools :
   
@@ -51,8 +53,3 @@
   
   ### 🔥 &nbsp; My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
