@@ -28,7 +28,7 @@
 <div>
 <a href="https://github.com/bors4/postman" target="_self"><p title = "Postman Collections">Postman Collections</p></a>
 <a href="https://github.com/bors4/sql"  target="_self"><p title = "SQL queries">SQL queries</p></a>
-<a href="https://github.com/bors4/checklist" target="_self"><p title = "Checklist">Checklist</p></a>
+<a href="https://github.com/bors4/checklists" target="_self"><p title = "Checklist">Checklist</p></a>
 <a href="https://github.com/bors4/bug-reports" target="_self"><p title = "Bug reports">Bug reports</p></a>
 <a href="https://github.com/bors4/test-cases" target="_self"><p title = "Test cases">Test cases</p></a>
 </div>
