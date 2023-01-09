@@ -19,8 +19,8 @@
 
 <h3 style="color:rgb(255, 152, 152);" title = "Link to my CV on russian and english from Google Drive">&#128221; My CV</h3>
   <b>
-    <a href="https://drive.google.com/file/d/1qw_iiKAMAcMUSrITOYfaFc_zEYQULmAl/view?usp=sharing" target="_blank">Rissian</a>/
-    <a href="https://drive.google.com/file/d/1unonDsf193s4xbod3T7EW2EuzDx9DAnd/view?usp=sharing" target="_blank">English</a>
+    <a href="https://drive.google.com/file/d/1l1xZScs_WicDL2eA3PKGutQoHomZFv6g/view?usp=sharing" target="_blank">Rissian</a>/
+    <a href="https://drive.google.com/file/d/12Xs1J6-aRQVxviksVfLWOE6cNR7H34xt/view?usp=sharing" target="_blank">English</a>
   </b>
 <hr>
 
