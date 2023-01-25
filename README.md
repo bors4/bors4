@@ -24,32 +24,42 @@
   </b>
 <hr>
 
-<h3 style="color:rgb(255, 152, 152);">&#128195; Testing documentation</h3>
-<div>
-<a href="https://github.com/bors4/postman" target="_self"><p title = "Postman Collections">Postman Collections</p></a>
-<a href="https://github.com/bors4/sql"  target="_self"><p title = "SQL queries">SQL queries</p></a>
-<a href="https://github.com/bors4/checklists" target="_self"><p title = "Checklist">Checklist</p></a>
-<a href="https://github.com/bors4/bug-reports" target="_self"><p title = "Bug reports">Bug reports</p></a>
-<a href="https://github.com/bors4/test-cases" target="_self"><p title = "Test cases">Test cases</p></a>
-</div>
+<details open>
+  <summary>Testing documentation and other</summary>
+  <p>  
+    <div>
+      <a href="https://github.com/bors4/postman" target="_self"><p title = "Postman Collections">Postman Collections</p></a>
+      <a href="https://github.com/bors4/sql"  target="_self"><p title = "SQL queries">SQL queries</p></a>
+      <a href="https://github.com/bors4/checklists" target="_self"><p title = "Checklist">Checklist</p></a>
+      <a href="https://github.com/bors4/bug-reports" target="_self"><p title = "Bug reports">Bug reports</p></a>
+      <a href="https://github.com/bors4/test-cases" target="_self"><p title = "Test cases">Test cases</p></a>
+    </div>
+  </p>
+</details>
+
+
+
 <hr>
 <div>
   
   ### 🛠 &nbsp;Languages and Tools :
   
   <p>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" **alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" title="VirtualBox" **alt="VirtualBox" width="40" height="40"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" **alt="GraphQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" title="VirtualBox" **alt="VirtualBox" width="40" height="40"/>&nbsp;
   </p>
 
   ---
   
   ### 🔥 &nbsp; My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bors4&show_icons=true&theme=radical)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bors4)](https://github.com/bors4/github-readme-stats)
