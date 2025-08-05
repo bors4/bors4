@@ -5,7 +5,7 @@
   </div>
 </h1>
 <h2 style="color:rgb(255, 152, 152);">&#128102; About Me</h2>
-<a target="_blank" href="mailto:sasha.belik89@gmail.com">
+<a target="_blank" href="mailto:aliaksandr.bilyk@gmail.com">
   <img align="left" alt="Gmail" width="80px" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/>
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/aliaksandr-bilyk-62a571234">
@@ -15,7 +15,7 @@
 <hr>
 <p>Hello! Some information about me.</p>
 
-<p>I’m working as a Software Engineer &#128104;&#8205;&#128187;</p>
+<p>I’m working as a QA Engineer &#128104;&#8205;&#128187;</p>
 
 <h3 style="color:rgb(255, 152, 152);" title = "Link to my CV on russian and english from Google Drive">&#128221; My CV</h3>
   <b>
