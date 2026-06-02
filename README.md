@@ -60,7 +60,5 @@
   
   ### 🔥 &nbsp; My Stats :
  
- <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=bors4&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bors4&theme=radical&layout=compact" />
-</div>
+ <div style="display: flex; flex-direction: row;"></div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
