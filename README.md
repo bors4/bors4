@@ -60,6 +60,6 @@
   
   ### 🔥 &nbsp; My Stats :
  
- <div style="display: flex; flex-direction: row;"></div>
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bors4&theme=dark)](https://git.io/streak-stats)
+ <div style="display: flex; flex-direction: row;">
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bors4&theme=highcontrast&short_numbers=true" alt="GitHub Streak" /></a>
+ </div>
